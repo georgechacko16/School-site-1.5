@@ -1,0 +1,29 @@
+h1,h2,h3{
+    border: solid;
+    color: #492e26;
+    background-color: #d2691e;
+}
+
+body{
+    background-color: #cf8571;
+}
+
+a{
+    color: #423529;
+}
+
+.list{
+    text-align: center;
+}
+
+.cats {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.icon{
+    background-color: #242d38;
+    text-align: center;
+}
+
